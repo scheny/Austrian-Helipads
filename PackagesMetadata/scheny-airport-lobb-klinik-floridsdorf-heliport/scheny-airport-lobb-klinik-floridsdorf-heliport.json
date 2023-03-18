@@ -1,0 +1,10 @@
+{
+  "locations": [
+    {
+      "type": "airport",
+      "airportCode": "LOBB",
+      "latitude": 48.2677389999992,
+      "longitude": 16.40582600000001
+    }
+  ]
+}

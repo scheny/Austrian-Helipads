@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<Airport displayName="Allgemeines Krankenhaus Wien Heliport" groupID="1" groupGenerated="FALSE" name="Allgemeines Krankenhaus Wien Heliport" ident="LOBA" lat="48.22142499999921" lon="16.34620099999999" alt="209.56511761248112" magvar="5.000000" trafficScalar="1.000000" airportTestRadius="20.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
+		<Helipad parentGroupID="1" type="NONE" lat="48.22142501452107" lon="16.34620052729424" alt="209.56511836219579" heading="89.971352" length="17.500000" width="17.500000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+		<Aprons/>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+	</Airport>
+</FSData>
+

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<Airport displayName="Klinik Hietzing Heliport" groupID="1" groupGenerated="FALSE" name="Klinik Hietzing Heliport" ident="LOBX2" lat="48.15963499999679" lon="16.28042600000000" alt="245.23233489133418" magvar="5.000000" trafficScalar="1.000000" airportTestRadius="20.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
+		<Helipad parentGroupID="1" type="NONE" lat="48.15963454652228" lon="16.28042579721007" alt="245.23233496770263" heading="170.161163" length="17.500000" width="17.500000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+		<Aprons/>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+	</Airport>
+</FSData>
+

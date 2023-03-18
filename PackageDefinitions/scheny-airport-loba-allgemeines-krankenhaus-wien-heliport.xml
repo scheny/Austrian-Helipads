@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssetPackage Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>Allgemeines Krankenhaus Wien Heliport</Title>
+		<Manufacturer/>
+		<Creator>Scheny</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\scheny-airport-loba-allgemeines-krankenhaus-wien-heliport\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\scheny-airport-loba-allgemeines-krankenhaus-wien-heliport\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="scenery">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\airport-loba-allgemeines-krankenhaus-wien-heliport\scenery\</AssetDir>
+			<OutputDir>Scenery\airport-loba-allgemeines-krankenhaus-wien-heliport\scenery\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

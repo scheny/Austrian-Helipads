@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<Airport displayName="Klinik Donaustadt (SMZ Ost) Heliport" groupID="1" groupGenerated="FALSE" name="Klinik Donaustadt (SMZ Ost) Heliport" ident="LOBD" lat="48.21888799999929" lon="16.46345500000000" alt="183.14368965197355" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="20.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
+		<Helipad parentGroupID="1" type="MEDICAL" lat="48.21888843436838" lon="16.46345524547301" alt="183.14369012787938" heading="144.545563" length="17.500000" width="17.500000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+		<Start type="HELIPAD" number="1" designator="NONE" lat="48.21888843436838" lon="16.46345524547301" alt="183.14369012787938" heading="0.00000000000000"/>
+		<Aprons/>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+	</Airport>
+</FSData>
+

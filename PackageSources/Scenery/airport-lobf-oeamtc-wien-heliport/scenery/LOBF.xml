@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<Airport displayName="OEAMTC Wien Heliport" groupID="1" groupGenerated="FALSE" name="ÖAMTC Wien Heliport" ident="LOBF" lat="48.18923904748056" lon="16.41220007456516" alt="187.99999991245568" magvar="5.000000" trafficScalar="1.000000" airportTestRadius="20.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
+		<Helipad parentGroupID="1" type="NONE" lat="48.18923644762035" lon="16.41220587260575" alt="187.99999991152436" heading="183.000000" length="17.499985" width="17.499985" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+		<Aprons/>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+	</Airport>
+</FSData>
+

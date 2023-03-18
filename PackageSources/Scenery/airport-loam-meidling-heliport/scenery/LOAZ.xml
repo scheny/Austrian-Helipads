@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<Airport displayName="Meidling (Bundespolizei) Heliport" groupID="1" groupGenerated="FALSE" name="Meidling (Bundespolizei) Heliport" ident="LOAM" lat="48.17373899999915" lon="16.32262700000000" alt="224.92871866747737" magvar="5.000000" trafficScalar="1.000000" airportTestRadius="20.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
+		<Helipad parentGroupID="1" type="NONE" lat="48.17373908582821" lon="16.32262723324866" alt="224.92871888540685" heading="186.789246" length="17.500000" width="17.500000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+		<Aprons/>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+	</Airport>
+</FSData>
+
